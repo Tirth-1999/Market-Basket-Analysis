@@ -23,7 +23,10 @@
 
  Association Rules are widely used to analyze retail basket or transaction data, and are intended to identify strong rules discovered in transaction data using measures of interestingness, based on the concept of strong rules.
  
- 
+ “Frequently Bought Together” → Association
+
+“Customers who bought this item also bought” → Recommendation
+
  These relationships are then used to build profiles containing If-Then rules of the items purchased. for example:
  
  `
