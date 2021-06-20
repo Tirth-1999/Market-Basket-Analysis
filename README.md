@@ -1,5 +1,5 @@
 # Market-Basket-Analysis
- > <b>Often wonder how you come to a mall with strict bubget but always end up breaking it, cause you thought it's a great deal ?</b>
+ > <b>Often wonder how you come to a mall with a strict budget but always end up breaking it, cause you thought it's a great deal?</b>
 
  ![Market Basket](https://images.unsplash.com/photo-1578916171728-46686eac8d58?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80)
 
